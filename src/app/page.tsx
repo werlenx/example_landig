@@ -51,7 +51,7 @@ const Home: React.FC = () => {
               de tráfego eficientes.
             </p>
             <ul>
-              <li>Google Ads & Facebook Ads</li>
+              <li>Google Ads &amp; Facebook Ads</li>
               <li>Remarketing</li>
               <li>Análise de Dados</li>
             </ul>
@@ -95,15 +95,15 @@ const Home: React.FC = () => {
         <h2>Depoimentos de Clientes</h2>
         <div className="testimonialItem">
           <p>
-            "A Mooncake transformou completamente a nossa presença digital. O
-            tráfego cresceu 50% no primeiro mês!"
+            &quot;A Mooncake transformou completamente a nossa presença digital. O
+            tráfego cresceu 50% no primeiro mês!&quot;
           </p>
           <p>— Ana Silva, Empresária</p>
         </div>
         <div className="testimonialItem">
           <p>
-            "O design que criaram para a nossa marca ficou incrível. Nossos
-            clientes amaram!"
+            &quot;O design que criaram para a nossa marca ficou incrível. Nossos
+            clientes amaram!&quot;
           </p>
           <p>— João Pereira, Gerente de Marketing</p>
         </div>
